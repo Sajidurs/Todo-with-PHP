@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(229, 229, 229) !important;
+}
+#error{
+    color: red;
+}
+.section_wrapper .section{
+    margin: 0 auto;
+    width: 30%;
+    margin-top: 50px;
+    height: 71%;
+    border: 1px solid #dedede;
+    font-size: 18px;
+    font-family: revert;
+    color: rgb(137 137 137) !important;
+}
